@@ -8,6 +8,8 @@ void main(void) {
   result = result + 5;
   int sum = CalcSum(3);
   result = sum + 100;
+
+  result++;
   
   while (1);
 
