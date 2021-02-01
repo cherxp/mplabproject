@@ -10,6 +10,7 @@ void main(void) {
   result = sum + 100;
 
   result++;
+  result++;
 
   while (1);
 
