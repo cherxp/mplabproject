@@ -8,17 +8,19 @@ void main(void) {
   result = result + 5;
   int sum = CalcSum(3);
   result = sum + 100;
-  
+
+  result++;
+
   while (1);
 
 }
 
 int CalcSum(int n) {
   int sum = 0;
-  
+
   for (int i = 0; i < n; i++) {
     sum = sum + i;
   }
-  
+
   return sum;
 }
