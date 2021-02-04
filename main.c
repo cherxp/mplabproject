@@ -11,6 +11,7 @@ void main(void) {
 
   result++;
   result++;
+  // Test commit
 
   while (1);
 
