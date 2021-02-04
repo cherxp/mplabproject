@@ -11,7 +11,6 @@ void main(void) {
 
   result++;
   result++;
-  result++;
 
   while (1);
 
