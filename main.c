@@ -13,6 +13,8 @@ void main(void) {
   result++;
   // Test commit
 
+  // Hi Ameya !
+
   while (1);
 
 }
