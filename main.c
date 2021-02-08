@@ -14,9 +14,6 @@ void main(void) {
   result++;
   // Test commit
 
-  // Hi Ameya !
-  // THE UNI DIAMONDS!!!
-
   while (1);
 
 }
