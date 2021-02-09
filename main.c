@@ -12,7 +12,8 @@ void main(void) {
   result++;
   result++;
   result++;
-  // Test commit
+
+    // Demo session
 
   while (1);
 
