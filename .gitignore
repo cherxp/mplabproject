@@ -2,9 +2,9 @@ build
 debug
 dist
 nbproject/project.xml
-Package-default.bash
-Makefile-variables.mk
-Makefile-local-default.mk
-Makefile-impl.mk
-Makefile-genesis.properties
-Makefile-default.mk
+nbproject/Package-default.bash
+nbproject/Makefile-variables.mk
+nbproject/Makefile-local-default.mk
+nbproject/Makefile-impl.mk
+nbproject/Makefile-genesis.properties
+nbproject/Makefile-default.mk
