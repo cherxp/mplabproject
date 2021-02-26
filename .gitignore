@@ -1,4 +1,10 @@
 build
 debug
 dist
-
+nbproject/project.xml
+Package-default.bash
+Makefile-variables.mk
+Makefile-local-default.mk
+Makefile-impl.mk
+Makefile-genesis.properties
+Makefile-default.mk
